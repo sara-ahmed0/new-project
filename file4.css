@@ -1,0 +1,45 @@
+
+.a{
+    margin:0px ;
+    padding:10px ;
+    width:1300px ;
+    height: 80px;
+    font-size: larger;
+    font-weight: bold;
+    background:none ;
+    display: flex;
+} 
+.img {
+    width: 106px;
+    height: 106px;
+}
+.list{
+    display: inline;
+    background: none;
+    margin-left:10px ;
+    
+}
+.list a{
+    text-decoration: none;
+}
+
+.nav{
+    margin-top:20px ;
+    margin-left:10px ;
+    display: flex;
+}
+.third{
+    width:600px ;
+    height:200px ;
+    color: rgb(0, 0, 0);
+    margin-top:80px ;
+    margin-left:200px ;
+    background: none;
+    position: absolute;
+}
+.table{
+    width:1500px;
+    height:700px;
+    margin-top:-70px ;
+    
+}
